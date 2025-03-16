@@ -10,7 +10,7 @@ nav-order: 5
 
 ## 東京科学大学 学内
 
-- 東京科学大学
+- [東京科学大学](https://www.isct.ac.jp/ja){:target="_blank"}
 
 ## 東京科学大学 学外
 

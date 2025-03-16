@@ -2,57 +2,50 @@
 layout: default
 ---
 
-  <div class="section no-pad-bot" id="index-banner">
+<div class="section no-pad-bot" id="index-banner">
     <div class="container">
-      <br><br>
-      <h1 class="header center">{{ site.title }}</h1>
-      <br>
-      <div class="row center">
-        <h3 class="header col s12 light">中田研究室は, 東京科学大学工学院経営工学系に所属しており, オペレーションズ・リサーチ, 機械学習, 最適化に関する研究をしています.</h3>
-      </div>
-      <br>
-      <div class="row">
-        <div class="col s12 m6">
-          <div class="row center">
-            <a href="/for-students" id="download-button" class="btn-large waves-effect waves-light">所属希望の学生へ</a>
-          </div>
+        <br>
+        <br>
+        <h1 class="home center">{{ site.title }}</h1>
+        <br>
+        <div class="row center">
+            <h2 class="home col s12 light">中田研究室は東京科学大学工学院経営工学系に所属しており，オペレーションズ・リサーチ，機械学習，最適化に関する研究をしています．</h2>
         </div>
-          <div class="col s12 m6">
-          <div class="row center">
-            <a href="/for-industry" id="download-button" class="btn-large waves-effect waves-light">企業の方へ</a>
-          </div>
+        <br>
+        <div class="row">
+            <div class="col s12 m6">
+                <div class="row center">
+                    <a href="/for-students" id="download-button" class="btn-large waves-effect waves-light">所属希望の学生へ</a>
+                </div>
+            </div>
+            <div class="col s12 m6">
+                <div class="row center">
+                    <a href="/for-industry" id="download-button" class="btn-large waves-effect waves-light">企業の方へ</a>
+                </div>
+            </div>
         </div>
-      </div>
-      <br><br>
-    </div>
-  </div>
-
-
-    <!-- <div style="background: #ddd"> -->
-    <div class="container last-post">
-    <section>
-        <h1>新着情報</h1>
-        <ul class="collection">
-        {% assign recent_posts = site.posts | limit: 3 %}
-        {% for post in recent_posts %}
-        <li class="collection-item avatar">
-          {% assign date_format = site.minima.date_format | default: "%Y/%m/%d" %}
-          <div class="date-post">{{ post.date | date: date_format }}</div>
-          <span class="title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
-          <!-- <p>
-             {{ post.content | truncate: 50, "..." }}
-          </p> -->
-          <a href="{{ post.url | relative_url }}" class="secondary-content"><i class="material-icons">navigate_next</i></a>
-        </li>
-        {% endfor %}
-        </ul>
-    </section>
-    </div>
-    <div class="container">
-      <div style="text-align: right">
-        <a href="/news">すべての新着情報を見る</a>
-      </div>
+        <br>
+        <br>
     </div>
 </div>
 
-  </div>
+<!-- <div style="background: #ddd"> -->
+<div class="container last-post">
+    <section>
+        <h1>新着情報</h1>
+        <table class="news">
+            <tbody>
+                {% for post in site.posts | limit: 3 %}
+                <tr>
+                    {% assign date_format = site.minima.date_format | default: "%Y/%m/%d" %}
+                    <th>{{ post.date | date: date_format }}</th>
+                    <td><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <div style="text-align: right">
+            <a href="/news">すべての新着情報を見る</a>
+        </div>
+    </section>
+</div>

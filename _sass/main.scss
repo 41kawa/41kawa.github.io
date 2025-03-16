@@ -1,16 +1,58 @@
 @charset "utf-8";
 
-h1.header {
+body {
+    color: #061826;
+    // background-color: #eef4ed;
+}
+
+h1 {
+    font-size: 2em;
+    padding: 0.5em;
+    color: #ffffff;
+    background: #0471a6;
+}
+
+// h1 {
+//     font-size: 2em;
+//     font-weight: 500;
+//     padding: 0.5em 0.3em;
+//     // color: #0471a6;
+//     border-top: solid 2.5px #0471a6;
+//     border-bottom: solid 2.5px #0471a6;
+// }
+
+h2 {
+    font-size: 1.5em;
+    padding: 0.4em 0.5em;
+    /*文字の上下 左右の余白*/
+    border-left: solid 5px #0471a6;
+    border-bottom: solid 2.5px #0471a6;
+}
+
+h3 {
+    font-size: 1.3em;
+    padding: 0.5em;
+    border-bottom: solid 2.5px #0471a6;
+}
+
+h4 {
+    font-size: 1.1em;
+    padding: 1em 0 0 0;
+    font-weight: 500;
+    // background: linear-gradient(transparent 70%, #0471a6 70%);
+}
+
+h1.home {
     all: initial;
     font-size: 4em;
     font-weight: 500;
     text-align: center;
     margin: 0 auto;
     display: block;
-    color: #26499d
+    color: #0471a6
 }
 
-h3.header {
+h2.home {
     all: initial;
     font-size: 1.25em;
     font-weight: 250;
@@ -18,34 +60,6 @@ h3.header {
     margin: 0 auto;
     display: block;
     color: #ffffff
-}
-
-h1 {
-    font-size: 2em;
-    padding: 0.5em;
-    color: #ffffff;
-    background: #26499d;
-}
-
-h2 {
-    font-size: 1.5em;
-    padding: 0.4em 0.5em;
-    /*文字の上下 左右の余白*/
-    color: #000000;
-    border-left: solid 5px #26499d;
-    border-bottom: solid 2.5px #26499d;
-}
-
-h3 {
-    font-size: 1.3em;
-    padding: 0.5em;
-    border-bottom: solid 2.5px #26499d;
-}
-
-h4 {
-    font-size: 1.1em;
-    font-weight: 500;
-    // background: linear-gradient(transparent 70%, #26499d 70%);
 }
 
 table {
@@ -57,8 +71,13 @@ table th {
     /* 幅を指定した要素だけ固定される。他は等倍の可変 */
 }
 
+table.news th {
+    width: 6.5em;
+    /* 幅を指定した要素だけ固定される。他は等倍の可変 */
+}
+
 a {
-    color: #26499d
+    color: #3685b5
 }
 
 // a:link {
@@ -70,12 +89,13 @@ a {
 // }
 
 a:hover {
-    color: #9e264a;
+    color: #db5461;
+    // text-decoration: underline;
 
 }
 
 a:active {
-    color: #9e264a;
+    color: #db5461;
 }
 
 a.btn-large {
@@ -87,29 +107,30 @@ a.btn-large {
 //     padding-right: 0;
 // }
 
-.custom-header {
-    background-color: #26499d;
+.header {
+    background-color: #0471a6;
 }
 
-.custom-header a:hover {
-    background-color: #315fcc;
+.header a:hover {
+    background-color: #3685b5;
 }
 
-.custom-header a:active {
-    background-color: #315fcc;
+.header a:active {
+    color: #ffffff;
+    background-color: #3685b5;
 }
 
-.custom-header a {
-    color: white;
+.header a {
+    color: #ffffff;
 }
 
-.custom-footer {
-    background-color: #26499d;
+.footer {
+    background-color: #0471a6;
 }
 
 .footer-copyright {
     color: #ffffff;
-    background-color: #315fcc;
+    background-color: #0471a6;
 }
 
 #index-banner {
@@ -123,14 +144,14 @@ a.btn-large {
     /* 画像を繰り返さない */
     min-height: 300px;
     /* 必要に応じて高さを設定 */
-    color: white;
+    color: #ffffff;
     /* テキストの色を変更（必要に応じて） */
     padding: 20px;
     /* 内部の余白を設定 */
 }
 
 #download-button {
-    background-color: #26499d;
+    background-color: #0471a6;
 }
 
 h1,
@@ -175,27 +196,30 @@ h1.page-title {
     padding: 0;
 }
 
-.collection .collection-item.avatar {
-    padding-right: 30px;
-}
+// .collection .collection-item.avatar {
+//     padding-right: 30px;
+// }
 
-.last-post {
-    padding: 10px 0 15px;
-}
+// .last-post {
+//     padding: 0px 0 15px;
+//     // padding: 10px 0 15px;
+// }
 
-.last-post .collection .collection-item.avatar>.date-post {
-    position: absolute;
-    width: 54px;
-    height: 54px;
-    overflow: hidden;
-    left: 10px;
-    display: inline-block;
-    padding: 16px 0;
-    vertical-align: middle;
-    background: #1c3177;
-    color: #fff;
-    text-align: center;
-}
+// .last-post .collection .collection-item.avatar>.date-post {
+//     position: absolute;
+//     width: 54px;
+//     // height: 54px;
+//     height: 1em;
+//     overflow: hidden;
+//     left: 10px;
+//     display: inline-block;
+//     // padding: 16px 0;
+//     padding: 0px 0;
+//     vertical-align: middle;
+//     background: #1c3177;
+//     color: #fff;
+//     text-align: center;
+// }
 
 .txt-center {
     text-align: center;
@@ -214,4 +238,14 @@ h1.page-title {
 
 p.rss-subscribe {
     margin: 0;
+}
+
+nav ul li.active a {
+    // color: # !important;
+    /* 文字色を黄色に */
+    // font-weight: bold;
+    /* 太字にする */
+    background-color: #3685b5;
+    // border-bottom: 3px solid #db5461;
+    /* 下線を追加（任意） */
 }
