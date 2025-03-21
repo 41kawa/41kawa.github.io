@@ -1,51 +1,59 @@
 ---
-layout: default
+layout: base
 ---
 
-<div class="section no-pad-bot" id="index-banner">
-    <div class="container">
-        <br>
-        <br>
-        <h1 class="home center">{{ site.title }}</h1>
-        <br>
-        <div class="row center">
-            <h2 class="home col s12 light">中田研究室は東京科学大学工学院経営工学系に所属しており，オペレーションズ・リサーチ，機械学習，最適化に関する研究をしています．</h2>
-        </div>
-        <br>
-        <div class="row">
-            <div class="col s12 m6">
-                <div class="row center">
-                    <a href="/for-students" id="download-button" class="btn-large waves-effect waves-light">所属希望の学生へ</a>
-                </div>
-            </div>
-            <div class="col s12 m6">
-                <div class="row center">
-                    <a href="/for-industry" id="download-button" class="btn-large waves-effect waves-light">企業の方へ</a>
-                </div>
-            </div>
-        </div>
-        <br>
-        <br>
-    </div>
-</div>
+<div class="home">
+  {{ content }}
 
-<!-- <div style="background: #ddd"> -->
-<div class="container last-post">
-    <section>
-        <h1>新着情報</h1>
-        <table class="news">
-            <tbody>
-                {% for post in site.posts | limit: 3 %}
-                <tr>
-                    {% assign date_format = site.minima.date_format | default: "%Y/%m/%d" %}
-                    <th>{{ post.date | date: date_format }}</th>
-                    <td><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></td>
-                </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-        <div style="text-align: right">
-            <a href="/news">すべての新着情報を見る</a>
-        </div>
-    </section>
+  <h1 class="post-title">新着情報</h1>
+
+  {% if site.paginate %}
+    {% assign posts = paginator.news %}
+  {% else %}
+    {% assign posts = site.news %}
+  {% endif %}
+
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%Y/%m/%d" -%}
+          {% assign sorted_news = site.news | sort: "path" | reverse %}
+  {% for post in sorted_news | limit: 5 %}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+
+  {%- endif -%}
+
+  <a href="/news" class="news-link">すべての新着情報を見る</a>
+
 </div>

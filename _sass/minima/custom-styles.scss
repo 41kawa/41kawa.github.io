@@ -1,0 +1,211 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// body {
+//     font-family: 'M PLUS 1', sans-serif;
+// }
+// body {
+//     font-family: 'Noto Sans', sans-serif;
+// }
+body {
+    color: $text-color-dark;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+
+h1:not(.error-404) {
+    position: relative;
+    padding: .5em 1.25em;
+}
+
+h1:not(.error-404)::before,
+h1:not(.error-404)::after {
+    display: inline-block;
+    position: absolute;
+    transform: translateY(-50%);
+    width: 15px;
+    height: 15px;
+    border: 2px solid $main-color;
+    content: '';
+}
+
+h1:not(.error-404)::before {
+    top: calc(50% - 3px);
+    left: 0;
+}
+
+h1:not(.error-404)::after {
+    top: calc(50% + 3px);
+    left: 5px;
+}
+
+h2 {
+    padding: .25em 0;
+    border-bottom: solid 2.5px $main-color;
+}
+
+h3 {
+    padding: .25em 0;
+    border-bottom: solid 1.25px $main-color;
+}
+
+h4 {
+    padding: 0 .625em;
+    border-left: solid 2.5px $main-color;
+}
+
+a:link,
+a:visited {
+    color: $link-base-color;
+}
+
+a:hover,
+a:active {
+    color: $link-hover-color;
+}
+
+// header
+.site-header {
+    background-color: $main-color;
+    border-top: none;
+    border-bottom: none;
+    //     border-top: 5px solid $border-color-03;
+    //   border-bottom: 1px solid $border-color-01;
+
+    .site-title:link,
+    .site-title:visited {
+        color: $link-base-header-color;
+    }
+
+    .site-title:hover,
+    .site-title:active {
+        color: $link-hover-header-color;
+    }
+
+    .page-link:link,
+    .page-link:visited {
+        color: $link-base-header-color;
+
+        @media screen and (max-width: #{$on-medium - 1}) {
+            color: $text-color-dark;
+        }
+    }
+
+    .page-link:hover,
+    .page-link:active {
+        color: $link-hover-header-color;
+
+        @media screen and (max-width: #{$on-medium - 1}) {
+            color: $link-hover-color;
+        }
+    }
+}
+
+// footer
+.site-footer {
+    background-color: $main-color;
+    border-top: none;
+    color: $text-color-light;
+}
+
+.footer-col {
+    color: $text-color-light;
+
+    >p.text-large {
+        line-height: 0;
+        @include relative-font-size(1.5);
+    }
+}
+
+// home
+.home {
+    >h1 {
+        @include relative-font-size(2);
+    }
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    >li {
+        margin-bottom: 0;
+    }
+}
+
+.post-list li {
+    display: flex;
+    align-items: top;
+    gap: 1em;
+}
+
+.post-meta {
+    color: $text-color-dark;
+    display: inline-block;
+    @include relative-font-size(1);
+}
+
+.post-link {
+    display: inline-block;
+    @include relative-font-size(1);
+}
+
+.news-link {
+    display: block;
+    text-align: right;
+    margin-top: 0;
+}
+
+// page
+.post-header {
+    >h1 {
+        @include relative-font-size(2);
+    }
+
+    >h2 {
+        @include relative-font-size(1.5);
+    }
+
+    >h3 {
+        @include relative-font-size(1.25);
+    }
+}
+
+.post-content {
+    >h2 {
+        @include relative-font-size(1.5);
+    }
+
+    >h3 {
+        @include relative-font-size(1.25);
+    }
+
+    >h4 {
+        @include relative-font-size(1);
+    }
+}
+
+// table
+table {
+    table-layout: fixed;
+}
+
+tr:nth-child(odd),
+tr:nth-child(even) {
+    background-color: inherit !important;
+}
+
+td:nth-of-type(1) {
+    background-color: #eeeeee;
+    text-align: center;
+    width: 3.75em;
+    white-space: nowrap;
+}
+
+td:nth-of-type(2) {
+    background-color: #ffffff;
+    text-align: left;
+    width: 100%;
+    word-break: break-word;
+}
+
+// accordion
