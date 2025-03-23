@@ -44,7 +44,7 @@ SCOPE-RLは，オフライン強化学習や，そのオフラインでの性能
 
 PCMF（Positive Collective Matrix Factorization）は，推薦システムや画像・テキストの解析など多岐にわたり適用される「行列因子分解（Matrix Factorization）」に基づいた手法です．既存の手法であるNMF（Non-Negative Matrix Factorization）の解釈可能性とCMF（Collective Matrix Factorization）の拡張性を兼ね備えたモデルとなっています．
 
-- ☆[Patient disease prediction and medical feature extraction using matrix factorization](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_2G3GS2e03/_pdf/-char/ja){:target="_blank"}
+- [Patient disease prediction and medical feature extraction using matrix factorization](https://doi.org/10.11517/pjsai.JSAI2021.0_2G3GS2e03){:target="_blank"}
 
 ### CGA2M+ [[GitHub](https://github.com/MK-tech20/CGA2M_plus){:target="_blank"}, [PyPI](https://pypi.org/project/cga2m-plus/){:target="_blank"}]
 

@@ -90,7 +90,7 @@ nav-order: 5
 
 #### 院試の対策はどのようにするとよいですか?
 
-講義資料や使用している教科書を読んだり，院試の過去問や中間・期末試験の過去問，演習問題などを解いたりすると良いと思います．講義資料や使用している教科書は[TOKYO TECH OCW](https://syllabus.s.isct.ac.jp/){:target="_blank"}を参照して下さい．院試の過去問は[経営工学系の過去問ページ](https://admissions.isct.ac.jp/ja/013/graduate/examination-questions){:target="_blank"}からダウンロードできます．
+講義資料や使用している教科書を読んだり，院試の過去問や中間・期末試験の過去問，演習問題などを解いたりすると良いと思います．講義資料や使用している教科書は[Science Tokyoシラバス（理工学系）](https://syllabus.s.isct.ac.jp/){:target="_blank"}を参照して下さい．院試の過去問は[経営工学系の過去問ページ](https://admissions.isct.ac.jp/ja/013/graduate/examination-questions){:target="_blank"}からダウンロードできます．
 
 #### まず研究生として入って受験の準備をした上で，院試を受けたいです．
 
