@@ -1,6 +1,22 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
+.header-wrapper {
+    max-width: $max-width;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.footer-wrapper {
+    max-width: $max-width;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
 body {
     color: $text-color-dark;
     font-family: 'M PLUS 1', sans-serif;
@@ -90,7 +106,7 @@ a:active {
     .page-link:visited {
         color: $link-base-header-color;
 
-        @media screen and (max-width: #{$on-medium - 1}) {
+        @media screen and (max-width: #{$max-width - 1}) {
             color: $text-color-dark;
         }
     }
@@ -99,7 +115,7 @@ a:active {
     .page-link:active {
         color: $link-hover-header-color;
 
-        @media screen and (max-width: #{$on-medium - 1}) {
+        @media screen and (max-width: #{$max-width - 1}) {
             color: $link-hover-color;
         }
     }

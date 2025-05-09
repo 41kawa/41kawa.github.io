@@ -6,97 +6,98 @@ permalink: /works/award/
 
 ## 受賞
 
-- 中田和秀, 相川修平, 鈴木愛, 吉武渓, 勅使川原奏大, 岩渕亮, 小林健: [令和6年度データ解析コンペティション 成果報告会 最優秀賞](https://jasmac-j.jimdofree.com/){:target="_blank"}, 経営科学系研究部会連合協議会, 2025年3月.
-- 中田和秀, 相川修平, 鈴木愛, 吉武渓, 勅使川原奏大, 岩渕亮, 小林健: [令和6年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータを用いたマーケティング分析研究部会 最終発表会 技能賞](http://www.yokoyamalab.org/societies/mab/index.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 ビッグデータを用いたマーケティング分析研究部会, 2025年2月.
-- 中田和秀, 實渕有佑, 山尾奬紀, 吉田開, 呉景琪, 中川倖那, 中屋嘉弥, 小林健: [令和6年度データ解析コンペティション 日本経営工学会 最終報告会 最優秀賞](https://almondine-rhythm-dd8.notion.site/8ecd63da891144d7b40e782f1657164e){:target="_blank"}, 日本経営工学会 経営情報部門, 2025年2月.
-- 西島光洋: [最優秀発表賞](https://orsj.org/raota/#tsukuba24){:target="_blank"}, 日本オペレーションズ・リサーチ学会研究部会「最適化の理論とアルゴリズム」, 2024年5月.
-- 相川修平: [令和5年度東京工業大学優秀学生賞](https://www.eduplan.titech.ac.jp/activity/honor/){:target="_blank"}, 東京工業大学, 2024年3月.
-- 中田和秀, 永井将太, 大石嶺, 稲葉亮太, 相川修平, 實渕有佑, 守山日向, 小林健: [令和5年度データ解析コンペティション 成果報告会 優勝, 経営科学系研究部会連合協議会](https://jasmac-j.jimdofree.com/){:target="_blank"}, 2024年3月.
-- 中田和秀, 山尾奬紀, 植田遼太, 髙口奨一郎, 中瀬達, 鈴木愛, 豊田耕大, 小林健: [令和5年度データ解析コンペティション 成果報告会 日本ソーシャルデータサイエンス学会研究奨励賞](https://jasmac-j.jimdofree.com/){:target="_blank"}, 経営科学系研究部会連合協議会, 2024年3月.
-- 中田和秀, 永井将太, 大石嶺, 稲葉亮太, 相川修平, 實渕有佑, 守山日向, 小林健: [令和5年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータを用いたマーケティング分析研究部会 最終発表会 技能賞](http://www.yokoyamalab.org/societies/mab/2023.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 ビッグデータを用いたマーケティング分析研究部会, 2024年2月.
-- 中田和秀, 山尾奬紀, 植田遼太, 髙口奨一郎, 中瀬達, 鈴木愛, 豊田耕大, 小林健: [令和5年度データ解析コンペティション 日本経営工学会 最終報告会 優秀賞](https://almondine-rhythm-dd8.notion.site/5-fff32db61d89803fa78ddfea5ae30697){:target="_blank"}, 日本経営工学会 経営情報部門, 2024年2月.
-- 水谷圭佑: [FIT論文賞](https://www.ipsj.or.jp/award/fit_ronbun.html){:target="_blank"}, 情報処理学会, 2023年11月.
-- 馬嶋海斗, 中田和秀: [第37回全国大会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/#CONFERENCE){:target="_blank"}, 人工知能学会, 2023年11月.
-- 馬嶋海斗: [第41回学生論文賞](https://orsj.org/?page_id=1125){:target="_blank"}, 日本オペレーションズ・リサーチ学会, 2023年9月.
-- 小林健: [第13回研究賞奨励賞](https://orsj.org/?page_id=1125){:target="_blank"}, 日本オペレーションズ･リサーチ学会, 2023年9月.
-- 大石嶺: [優秀発表賞](https://orsj.org/raota/#tsukuba23){:target="_blank"}, 日本オペレーションズ・リサーチ学会研究部会「最適化の理論とアルゴリズム」, 2023年5月.
-- 西島光洋: [最優秀発表賞](https://orsj.org/raota/#tsukuba23){:target="_blank"}, 日本オペレーションズ・リサーチ学会研究部会「最適化の理論とアルゴリズム」, 2023年5月.
-- 小林健: [令和4年度手島精一記念研究賞 (博士論文賞)](https://www.titech.ac.jp/news/2023/066259){:target="_blank"}, 東京工業大学, 2023年3月.
-- 清原明加: [令和4年度東京工業大学優秀学生賞](https://www.eduplan.titech.ac.jp/activity/honor/){:target="_blank"}, 東京工業大学, 2023年3月.
-- 中田和秀, 水谷圭佑, 植田彩香, 植田遼太, 大石嶺, 原朋史, 星野雄毅, 小林健: [令和4年度データ解析コンペティション 成果報告会 最優秀賞](https://jasmac-j.jimdofree.com/){:target="_blank"}, 経営科学系研究部会連合協議会, 2023年3月.
-- 中田和秀, 東将己, 山根大輝, 永井将太, 稲室健太, 成民濟, 小林健: [令和4年度データ解析コンペティション 成果報告会 優秀賞](https://jasmac-j.jimdofree.com/){:target="_blank"}, 経営科学系研究部会連合協議会, 2023年3月.
-- 中田和秀, 水谷圭介, 植田彩香, 原朋史, 星野雄毅, 植田遼太, 大石嶺, 小林健: [令和4年度データ解析コンペティション JIMA予選会 優秀賞](https://almondine-rhythm-dd8.notion.site/4-a7a4e5a980a64bba91a46015ba39146c){:target="_blank"}, 日本経営工学会 経営情報部門, オンライン, 2022年2月.
-- 中田和秀, 東将己, 稲室健太, 成民濟, 永井将太, 山根大輝, 小林健: [令和4年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データサイエンスとマーケティング分析研究部会 予選会 殊勲賞](http://www.yokoyamalab.org/societies/ddm/2022.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 データドリブンマーケティング分析研究部会, オンライン, 2022年2月.
-- 山根大輝, 田中未来, 小林健, 中田和秀: [学生優秀プレゼンテーション賞ファイナリスト](https://ibisml.org/ibis2022/awards/){:target="_blank"}, 第25回情報論的学習理論ワークショップ (IBIS2022), 2022年11月
-- 西島光洋: [第40回学生論文賞](https://orsj.org/?page_id=1125){:target="_blank"}, 日本オペレーションズ・リサーチ学会, 2022年9月.
-- 倉又迪哉: [第40回学生論文賞](https://orsj.org/?page_id=1125){:target="_blank"}, 日本オペレーションズ・リサーチ学会, 2022年9月.
-- 中田和秀, 星野雄毅, 石塚湖太, 田崎誠, 水谷圭佑, 浅見元哉: [令和3年度データ解析コンペティション 成果報告会 最優秀賞](https://jasmac-j.jimdofree.com/){:target="_blank"}, 経営科学系研究部会連合協議会, 2022年3月.
-- 中田和秀, 梅津大雅, 松井諒生, 馬嶋海斗, 山根大輝, 東将己, 原朋史: [令和3年度データ解析コンペティション 成果報告会 優秀賞](https://jasmac-j.jimdofree.com/){:target="_blank"}, 経営科学系研究部会連合協議会, 2022年3月.
-- 中田和秀, 梅津大雅, 松井諒生, 馬嶋海斗, 山根大輝, 東将己, 原朋史: [令和3年度データ解析コンペティション JIMA予選会 優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}, 日本経営工学会 経営情報部門, オンライン, 2022年2月.
-- 中田和秀, 星野雄毅, 石塚湖太, 田崎誠, 水谷圭佑, 浅見元哉: [令和3年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データサイエンスとマーケティング分析研究部会 予選会 殊勲賞](http://www.yokoyamalab.org/societies/ddm/2021.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 データドリブンマーケティング分析研究部会, オンライン, 2022年2月.
-- 清原明加: [Best Paper Runner-Up, 15th ACM International WSDM Conference (WSDM '22)](https://www.wsdm-conference.org/2022/timetable/event/best-papers-session/){:target="_blank"}, Feburary 2022.
-- 土橋諒太: [2020年度 学生優秀論文賞](https://sigfin.org/award2020/){:target="_blank"}, 人工知能学会 金融情報学研究会, 2021年10月.
-- 住谷有規: [2020年学術奨励賞 研究奨励賞](http://jami.jp/award/acaEncourAward2020.html){:target="_blank"}, 日本医療情報学会, 2021年5月.
-- 中田和秀, 岩田真奈, 倉又迪哉, 近藤謙将, 渡邊彰久, 馬嶋海斗, 清原明加: [令和2年度データ解析コンペティション 成果報告会 最優秀賞](https://jasmac-j.jimdofree.com/){:target="_blank"}, 経営科学系研究部会連合協議会, 2021年3月.
-- 中田和秀, 石塚湖太, 松井諒生, 石川洸矢, 星野雄毅, 梅津大雅: [令和2年度データ解析コンペティション 成果報告会 優秀賞](https://jasmac-j.jimdofree.com/){:target="_blank"}, 経営科学系研究部会連合協議会, 2021年3月.
-- 中田和秀, 岩田真奈, 倉又迪哉, 近藤謙将, 渡邊彰久, 馬嶋海斗, 清原明加: [令和2年度データ解析コンペティション JIMA予選会 最優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}, 日本経営工学会 経営情報部門, オンライン, 2021年2月.
-- 中田和秀, 石塚湖太, 松井諒生, 石川洸矢, 星野雄毅, 梅津大雅: [令和2年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データサイエンスとマーケティング分析研究部会 予選会 技能賞](http://www.yokoyamalab.org/societies/ddm/2020.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 データサイエンスとマーケティング分析研究部会, オンライン, 2021年2月.
-- 齋藤優太 (半熟仮想 (株) 共同創業者科学統括/東京工業大学): [内閣総理大臣賞](https://www8.cao.go.jp/cstp/stmain/20210217joip.html){:target="_blank"}, 第3回日本オープンイノベーション大賞, 2021年2月.
-- Mahmoud Heshmat: The Certificate of Merit for Outstanding PhD Thesis Awarded, Arab Republic of Egypt, The National Competition for Best MSc and Ph.D thesis, November 2020.
-- 中田和秀, 桑原惇, 岩田真奈, 石塚湖太, 倉又迪哉, 清原明加, 小林健: [令和元年度データ解析コンペティション 成果報告会 最優秀賞](https://jasmac-j.jimdofree.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E4%BB%A4%E5%92%8C%E5%85%83%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2020年6月.
-- 中田和秀, 住谷有規, 清水樹土, 笹尾知広, 松井諒生, 吉村勇佐, 小林健: [令和元年度データ解析コンペティション 成果報告会 優秀賞](https://jasmac-j.jimdofree.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E4%BB%A4%E5%92%8C%E5%85%83%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2020年6月.
-- 松井諒生: [優秀学生賞](http://www.jimanet.jp/information/awards/gakusei){:target="_blank"}, 日本経営工学会, 2020年3月.
-- 中田和秀, 桑原惇, 岩田真奈, 石塚湖太, 倉又迪哉, 清原明加, 小林健: [令和元年度データ解析コンペティション 最終発表 最優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}, 日本経営工学会 経営情報部門, オンライン, 2020年3月.
-- 中田和秀, 住谷有規, 清水樹土, 笹尾知広, 松井諒生, 吉村勇佐, 小林健: [令和元年度データ解析コンペティション 最終発表 殊勲賞](http://www.yokoyamalab.org/societies/dma/2019.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 データサイエンスとマーケティング分析研究部会, 慶應義塾大学, 2020年2月.
-- 小林健: [未来を担う若手研究者の集い 2019 優秀発表賞](https://www.ism.ac.jp/~mirai/opta/tsukuba19.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 研究部会 最適化とその応用, 2019年6月.
-- 住谷有規: [優秀学生賞](http://www.jimanet.jp/information/awards/gakusei){:target="_blank"}, 日本経営工学会, 2019年3月.
--中田和秀, 片山翔太, 土橋諒太, 陳晨, 三浦真和, 内橋孝介: [平成30年度データ解析コンペティション 成果報告会 最優秀賞](https://jasmac-j.jimdo.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B9%B3%E6%88%9030%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2019年3月.
-- 中田和秀, 片山翔太, 山野上勇人, 石田雄基, 小茂田岳広, 住谷有規, 小泉直人: [平成30年度データ解析コンペティション 成果報告会 ビデオリサーチ賞](https://jasmac-j.jimdo.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B9%B3%E6%88%9030%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会,2019年3月.
-- 中田和秀, 片山翔太, 土橋諒太, 陳晨, 三浦真和, 内橋孝介: [平成30年度データ解析コンペティション 最終発表 優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}, 日本経営工学会 経営情報部門, 東海大学, 2019年2月.
-- 中田和秀, 片山翔太, 山野上勇人, 石田雄基, 小茂田岳広, 住谷有規, 小泉直人: [平成30年度データ解析コンペティション 最終発表 敢闘賞](http://www.yokoyamalab.org/societies/dma/2018.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 データサイエンスとマーケティング分析研究部会, 慶應義塾大学, 2019年2月.
-- 中田和秀, 片山翔太, 田村悠, 根市和旗, 市瀬将也, 小槙瑠理子, 福永峻, 戸田開人: [平成29年度データ解析コンペティション 成果報告会 優秀賞](https://jasmac-j.jimdo.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B9%B3%E6%88%9029%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2018年3月.
-- 中田和秀, 片山翔太, 田村悠, 根市和旗, 市瀬将也, 小槙瑠理子, 福永峻, 戸田開人: [平成29年度データ解析コンペティション 最終発表 最優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}, 日本経営工学会 経営情報部門, 東海大学, 2018年2月.
-- 福永峻: [優秀学生賞](http://www.jimanet.jp/information/awards/gakusei){:target="_blank"}, 日本経営工学会, 2017年8月.
-- M.Heshmat, K,Nakata, and A.Eltawil: [Best Oral Presentation](http://www.iciea.org/index.html){:target="_blank"}, The 4th International Conference on Industrial Engineering and Applications, April 2017.
-- 中田和秀, 片山翔太, 田村悠, 吉住宗朔, 三宅聡一郎, 福永峻: [研究奨励賞](http://www.jsdss.org/event/285/){:target="_blank"}, 日本ソーシャルデータサイエンス学会, 2017年4月.
-- 中田和秀, 片山翔太, 田澤浩二, 根市和旗, 竹馬一輝, 大原靖之: [平成28年度データ解析コンペティション 成果報告会 最優秀賞](https://jasmac-j.jimdo.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B9%B3%E6%88%9028%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2017年3月.
-- 中田和秀, 片山翔太, 田村悠, 吉住宗朔, 三宅聡一郎, 福永峻: [平成28年度データ解析コンペティション成果報告会 優秀賞](https://jasmac-j.jimdo.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B9%B3%E6%88%9028%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2017年3月.
-- 中田和秀, 片山翔太, 田村悠, 吉住宗朔, 三宅聡一郎, 福永峻: [平成28年度データ解析コンペティション 最終発表 最優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}, 日本経営工学会 経営情報部門, 上智大学, 2017年2月.
-- 中田和秀, 片山翔太, 田澤浩二, 根市和旗, 竹馬一輝, 大原靖之: [平成28年度データ解析コンペティション 最終発表 殊勲賞](http://www.yokoyamalab.org/societies/bma/2016.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会, 専修大学, 2017年2月.
-- 高野祐一, 山根智之, 吉田佑輔, 西村直樹, 小林健, 菅原光太郎, 中田和秀: [事例研究賞](http://www.orsj.or.jp/whatisor/award4.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会, 2016年9月.
-- 中田和秀, 片山翔太, 吉住宗朔, 平野豪一, 田澤浩二: [ビッグデータチャレンジ賞](http://www.yokoyamalab.org/societies/bma/2015.html){:target="_blank"}, 慶應義塾大学 文科省委託事業 スキルと実践を重視したビッグデータ・イノベーション人材育成プログラム, 2016年3月.
-- 中田和秀, 片山翔太, 髙村幸佑, 土田繁, 西岡里奈子, 根市和旗, 三宅聡一郎: [平成27年度データ解析コンペティション 成果報告会 データ2部門 最優秀賞](http://jasmac-j.jimdo.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B9%B3%E6%88%9027%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2016年3月.
-- 中田和秀, 片山翔太, 吉住宗朔, 平野豪一, 田澤浩二: [平成27年度データ解析コンペティション 成果報告会 データ1部門 最優秀賞](http://jasmac-j.jimdo.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B9%B3%E6%88%9027%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2016年3月.
-- 中田和秀, 片山翔太, 髙村幸佑, 土田繁, 西岡里奈子, 根市和旗, 三宅聡一郎: [平成27年度データ解析コンペティション データ2部門 最終発表 敢闘賞](http://www.yokoyamalab.org/societies/bma/2015.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会, 慶應義塾大学, 2016年2月.
-- 中田和秀, 片山翔太, 吉住宗朔, 平野豪一, 田澤浩二: [平成27年度データ解析コンペティション データ1部門 最終発表 殊勲賞](http://www.yokoyamalab.org/societies/bma/2015.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会, 専修大学, 2016年2月.
-- 小林健: [第33回学生論文賞](第33回学生論文賞){:target="_blank"}, 日本オペレーションズ・リサーチ学会, 2015年9月.
-- 中田和秀, 高野祐一, 小林健, 西村直樹, 吉田佑輔, 菅原光太郎, 山根智之: [平成26年度データ解析コンペティション 成果報告会 データ1部門 最優秀賞](http://jasmac-j.jimdo.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B9%B3%E6%88%9026%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2015年3月.
-- 中田和秀, 高野祐一, 小林健, 西村直樹, 吉田佑輔, 菅原光太郎, 山根智之: [ビッグデータチャレンジ賞](http://www.yokoyamalab.org/societies/bma/2014.html){:target="_blank"}, 慶應義塾大学 文科省委託事業 スキルと実践を重視したビッグデータ・イノベーション人材育成プログラム, 2015年3月.
-- 中田和秀, 高野祐一, 片山翔太, 谷川奈穂, 馬場隆, 志甫有真, 菊地宏治: [平成26年度データ解析コンペティション 成果報告会 データ2部門 優秀賞](http://jasmac-j.jimdo.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B9%B3%E6%88%9026%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2015年3月.
-- 中田和秀, 高野祐一, 片山翔太, 谷川奈穂, 馬場隆, 志甫有真, 菊地宏治: [研究奨励賞](http://www.jsdss.org/2015/03/blog-post.html){:target="_blank"}, 日本ソーシャルデータサイエンス学会, 2015年3月.
-- 中田和秀, 高野祐一, 小林健, 西村直樹, 吉田佑輔, 菅原光太郎, 山根智之: [平成26年度データ解析コンペティション データ1部門 殊勲賞](http://www.yokoyamalab.org/societies/bma/2014.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会, 2015年2月.
-- 中田和秀, 高野祐一, 片山翔太, 谷川奈穂, 馬場隆, 志甫有真, 菊地宏治: [平成26年度データ解析コンペティション データ2部門 技能賞](http://www.yokoyamalab.org/societies/bma/2014.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会, 2015年2月.
-- 田中未来: [平成26年度手島精一記念研究賞 (博士論文賞)](http://www.titech.ac.jp/news/2015/030055.html){:target="_blank"}, 東京工業大学, 2015年2月.
-- 小林健: [研究科長賞ポスター部門](http://www.dst.titech.ac.jp/outline/award/award2014.html){:target="_blank"}, 東京工業大学大学院社会理工学研究科, 2014年11月.
-- 宮内敦史: [第32回学生論文賞](http://www.orsj.or.jp/whatisor/award6.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会, 2014年8月.
-- 鮏川矩義, 和田篤, 永井誠, 宮内敦史, 中田和秀: [ビッグデータチャレンジ賞](https://appsv.main.teikyo-u.ac.jp/~satoru/societies/ama/index.html){:target="_blank"}, 慶應義塾大学 文科省委託事業 スキルと実践を重視したビッグデータ・イノベーション人材育成プログラム, 2014年3月.
-- 中田和秀, 鮏川矩義, 和田篤, 永井誠, 宮内敦史: [平成25年度データ解析コンペティション 課題設定部門 最優秀賞](http://jasmac-j.jimdo.com/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B9%B3%E6%88%9025%E5%B9%B4%E5%BA%A6/){:target="_blank"}, 経営科学系研究部会連合協議会, 2014年3月.
-- 中田和秀, 鮏川矩義, 和田篤, 永井誠, 宮内敦史: [平成25年度データ解析コンペティション 課題設定部門 殊勲賞](https://appsv.main.teikyo-u.ac.jp/~satoru/societies/ama/index.html#2012-4){:target="_blank"}, 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 2014年3月.
-- 中田和秀, 土谷拓人, 小林健, 西村直樹, 馬場隆, 田中研太郎: [平成25年度データ解析コンペティション 課題設定部門 敢闘賞](https://appsv.main.teikyo-u.ac.jp/~satoru/societies/ama/index.html#2012-4){:target="_blank"}, 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 2014年3月.
-- 志甫有真: [平成25年度優秀学生賞](http://www.eduplan.titech.ac.jp/w/register-honors/yusy/){:target="_blank"}, 東京工業大学, 2014年3月.
-- 小林健, 田中未来, 鮏川矩義: [研究科長賞ポスター部門](http://www.dst.titech.ac.jp/outline/award2013.html){:target="_blank"}, 東京工業大学大学院社会理工学研究科, 2013年11月.
-- 田中未来: [研究科長賞研究論文部門](http://www.dst.titech.ac.jp/outline/award2013.html){:target="_blank"}, 東京工業大学大学院社会理工学研究科, 2013年11月.
-- 田中未来: 優秀発表賞, 日本オペレーションズ・リサーチ学会 最適化の理論と応用研究部会 SOTA @つくば ---未来を担う若手研究者の集い 2013---, 2013年6月.
-- 永井誠: [平成25年度優秀学生賞](http://www.titech.ac.jp/campuslife/graduate.html){:target="_blank"}, 東京工業大学, 2013年3月.
-- 佐藤貴海, 大野聖也, 佐藤悠介, 和田篤, 張志鋒, 永井誠, 関根琴美: [平成24年度データ解析コンペティション フリー学生部門 優秀賞](https://appsv.main.teikyo-u.ac.jp/~satoru/societies/ama/index.html#2012-4){:target="_blank"}, 経営科学系研究部会連合協議会, 2013年3月.
-- 高野祐一, 中田和秀, 田中研太郎, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 千代竜佑, 小林健: [平成24年度データ解析コンペティション フリー一般部門 殊勲賞](https://appsv.main.teikyo-u.ac.jp/~satoru/societies/ama/index.html#2012-6){:target="_blank"}, 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 日本データベース学会 ビジネスインテリジェンス研究グループ, 2013年2月.
-- 佐藤貴海, 大野聖也, 佐藤悠介, 和田篤, 張志鋒, 永井誠, 関根琴美: [平成24年度データ解析コンペティション フリー学生部門 技能賞](https://appsv.main.teikyo-u.ac.jp/~satoru/societies/ama/index.html#2012-4){:target="_blank"}, 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 日本データベース学会 ビジネスインテリジェンス研究グループ, 2013年2月.
-- 宮内敦史: [第30回学生論文賞](http://www.orsj.or.jp/whatisor/award6.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会, 2012年9月 ([前所属](http://www.ics.sophia.ac.jp/miyamoto/index.html){:target="_blank"}での研究成果).
-- 高野祐一, 中田和秀, 田中研太郎, 田中未来, 浅原惇希, 羽鳥映子, 神里栄, 竹山光将: [平成23年度データ解析コンペティション フリー一般部門 敢闘賞](https://appsv.main.teikyo-u.ac.jp/~satoru/societies/ama/index.html){:target="_blank"}, 日本オペレーションズ・リサーチ学 会先端マーケティング分析研究部会, 日本データベース学会 ビジネスインテリジェンス研究グループ, 2012年3月.
-- 田中未来: [研究科長奨励賞](http://www.dst.titech.ac.jp/outline/s_meeting/s_meeting1.html){:target="_blank"}, 東京工業大学大学院社会理工学研究科, 2011年11月.
-- 田中未来: [第29回学生論文賞](http://www.orsj.or.jp/whatisor/award6.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会, 2011年9月.
-- 田中未来: [優秀発表賞](http://www.indsys.chuo-u.ac.jp/~jgoto/SCOPE/mirai11_award.html){:target="_blank"}, 日本オペレーションズ・リサーチ学会 計算と最適化の新展開研究部会 SCOPE @つくば ---未来を担う若手研究者の集い 2011---, 2011年5月.
-- 千代竜佑: 平成22年度 開発システム工学科学士論文発表会ベストプレゼンテーション賞, 東京工業大学工学部開発システム工学科, 2011年3月.
-- 浅原惇希: [優秀学生賞](http://www.jimanet.jp/archive/mem_service/member/hyousyou.html#gakusei){:target="_blank"}, 日本経営工学会, 2010年3月.
+- 中田和秀, 相川修平, 鈴木愛, 吉武渓, 勅使川原奏大, 岩渕亮, 小林健: [最優秀賞](https://jasmac-j.jimdofree.com/#cc-m-11265871679){:target="_blank"}. 令和6年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2025年3月.
+- 中田和秀, 相川修平, 鈴木愛, 吉武渓, 勅使川原奏大, 岩渕亮, 小林健: [技能賞](http://www.yokoyamalab.org/societies/mab/index.html){:target="_blank"}. 令和6年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータを用いたマーケティング分析研究部会 最終発表会, 2025年2月.
+- 中田和秀, 實渕有佑, 山尾奬紀, 吉田開, 呉景琪, 中川倖那, 中屋嘉弥, 小林健: [最優秀賞](https://almondine-rhythm-dd8.notion.site/8ecd63da891144d7b40e782f1657164e#fff32db61d8980618a5ae5d1de294e4c){:target="_blank"}. 令和6年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2025年2月.
+- 西島光洋: [最優秀発表賞](https://orsj.org/raota/#tsukuba24){:target="_blank"}. 最適化の理論とアルゴリズム: 未来を担う若手研究者の集い 2024, 日本オペレーションズ・リサーチ学会 研究部会「最適化の理論とアルゴリズム」, 2024年5月.
+- 相川修平: 令和5年度東京工業大学優秀学生賞. 東京工業大学, 2024年3月.
+- 中田和秀, 植田遼太, 髙口奨一郎, 中瀬達, 鈴木愛, 豊田耕大, 山尾奬紀, 小林健: [日本ソーシャルデータサイエンス学会研究奨励賞](https://jasmac-j.jimdofree.com/#cc-m-11452943879){:target="_blank"}. 令和5年度データ解析コンペティション 成果報告会, 日本ソーシャルデータサイエンス学会, 2024年3月.
+- 中田和秀, 大石嶺, 稲葉亮太, 永井将太, 相川修平, 實渕有佑, 守山日向, 小林健: [優勝](https://jasmac-j.jimdofree.com/#cc-m-11452943879){:target="_blank"}. 令和5年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2024年3月.
+- 中田和秀, 大石嶺, 稲葉亮太, 永井将太, 相川修平, 實渕有佑, 守山日向, 小林健: [技能賞](http://www.yokoyamalab.org/societies/mab/2023.html){:target="_blank"}. 令和5年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータを用いたマーケティング分析研究部会 最終発表会, 2024年2月.
+- 中田和秀, 植田遼太, 髙口奨一郎, 中瀬達, 鈴木愛, 豊田耕大, 山尾奬紀, 小林健: [優秀賞](https://almondine-rhythm-dd8.notion.site/5-fff32db61d89803fa78ddfea5ae30697){:target="_blank"}. 令和5年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2024年2月.
+- 水谷圭佑: [FIT論文賞](https://www.ipsj.or.jp/award/fit_ronbun.html#hdg2){:target="_blank"}. 第22回情報科学技術フォーラム, 情報処理学会, 2023年11月.
+- 馬嶋海斗, 中田和秀: [第37回全国大会優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/){:target="_blank"}. 人工知能学会, 2023年11月.
+- 馬嶋海斗: [第41回学生論文賞](https://orsj.org/?page_id=1125){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2023年9月.
+- 小林健: [第13回研究賞奨励賞](https://orsj.org/?page_id=1125){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2023年9月.
+- 大石嶺: [優秀発表賞](https://orsj.org/raota/#tsukuba23){:target="_blank"}. 最適化の理論とアルゴリズム: 未来を担う若手研究者の集い 2023, 日本オペレーションズ・リサーチ学会 研究部会「最適化の理論とアルゴリズム」, 2023年5月.
+- 西島光洋: [最優秀発表賞](https://orsj.org/raota/#tsukuba23){:target="_blank"}. 最適化の理論とアルゴリズム: 未来を担う若手研究者の集い 2023, 日本オペレーションズ・リサーチ学会 研究部会「最適化の理論とアルゴリズム」, 2023年5月.
+- 小林健: [令和4年度手島精一記念研究賞 博士論文賞](https://www.titech.ac.jp/news/2023/066259){:target="_blank"}. 東京工業大学, 2023年3月.
+- 清原明加: 令和4年度東京工業大学優秀学生賞. 東京工業大学, 2023年3月.
+- 中田和秀, 東将己, 成民濟, 稲室健太, 永井将太, 山根大輝, 小林健: [優秀賞](https://jasmac-j.jimdofree.com/#cc-m-11111075879){:target="_blank"}. 令和4年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2023年3月.
+- 中田和秀, 水谷圭佑, 植田彩香, 植田遼太, 大石嶺, 星野雄毅, 小林健, 原朋史: [最優秀賞](https://jasmac-j.jimdofree.com/#cc-m-11111075879){:target="_blank"}. 令和4年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2023年3月.
+- 中田和秀, 水谷圭介, 植田彩香, 植田遼太, 大石嶺, 星野雄毅, 小林健, 原朋史: [優秀賞](https://almondine-rhythm-dd8.notion.site/4-a7a4e5a980a64bba91a46015ba39146c){:target="_blank"}. 令和4年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2023年2月.
+- 中田和秀, 東将己, 成民濟, 稲室健太, 永井将太, 山根大輝, 小林健: [殊勲賞](http://www.yokoyamalab.org/societies/ddm/2022.html){:target="_blank"}. 令和4年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データドリブンマーケティング研究部会 最終発表会, 2023年2月.
+- 山根大輝, 田中未来, 小林健, 中田和秀: [学生優秀プレゼンテーション賞ファイナリスト](https://ibisml.org/ibis2022/awards/){:target="_blank"}. 第25回情報論的学習理論ワークショップ (IBIS2022), 2022年11月
+- 西島光洋: [第40回学生論文賞](https://orsj.org/?page_id=1125){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2022年9月.
+- 倉又迪哉: [第40回学生論文賞](https://orsj.org/?page_id=1125){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2022年9月.
+- 中田和秀, 梅津大雅, 東将己, 馬嶋海斗, 山根大輝, 原朋史, 松井諒生: [優秀賞](https://jasmac-j.jimdofree.com/#cc-m-11013160579){:target="_blank"}. 令和3年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2022年3月.
+- 中田和秀, 浅見元哉, 水谷圭佑, 田崎誠, 星野雄毅, 石塚湖太: [最優秀賞](https://jasmac-j.jimdofree.com/#cc-m-11013160579){:target="_blank"}. 令和3年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2022年3月.
+- 中田和秀, 梅津大雅, 東将己, 馬嶋海斗, 山根大輝, 原朋史, 松井諒生: [優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}. 令和3年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2022年2月.
+- 中田和秀, 浅見元哉, 水谷圭佑, 田崎誠, 星野雄毅, 石塚湖太: [殊勲賞](http://www.yokoyamalab.org/societies/ddm/2021.html){:target="_blank"}. 令和3年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データドリブンマーケティング分析研究部会 最終発表会, 2022年2月.
+- H. Kiyohara: [WSDM 2022 Best Paper Award Runner-Ups](https://www.wsdm-conference.org/2022/timetable/event/best-papers-session/){:target="_blank"}. *15th ACM International WSDM Conference (WSDM '22)*, Feburary 2022.
+- 土橋諒太: [2020年度 学生優秀論文賞](https://sigfin.org/award2020/){:target="_blank"}. 人工知能学会 金融情報学研究会 (SIG-FIN), 2021年10月.
+- 住谷有規: [2020年学術奨励賞 研究奨励賞](https://www.jami.jp/award/22486/){:target="_blank"}. 第40回医療情報学連合大会, 日本医療情報学会, 2021年5月.
+- 中田和秀, 松井諒生, 石塚湖太, 石川洸矢, 星野雄毅, 梅津大雅: [優秀賞](https://jasmac-j.jimdofree.com/#cc-m-10771151479){:target="_blank"}. 令和2年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2021年3月.
+- 中田和秀, 岩田真奈, 倉又迪哉, 近藤謙将, 渡邊彰久, 馬嶋海斗, 清原明加: [最優秀賞](https://jasmac-j.jimdofree.com/#cc-m-10771151479){:target="_blank"}. 令和2年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2021年3月.
+- 中田和秀, 岩田真奈, 倉又迪哉, 近藤謙将, 渡邊彰久, 馬嶋海斗, 清原明加: [最優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}. 令和2年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2021年2月.
+- 中田和秀, 松井諒生, 石塚湖太, 石川洸矢, 星野雄毅, 梅津大雅: [技能賞](http://www.yokoyamalab.org/societies/ddm/2020.html){:target="_blank"}. 令和2年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データドリブンマーケティング研究部会 最終発表会, 2021年2月.
+- 齋藤優太 (半熟仮想(株)共同創業者科学統括/東京工業大学): [内閣総理大臣賞](https://www8.cao.go.jp/cstp/stmain/20210217joip.html){:target="_blank"}. 第3回日本オープンイノベーション大賞, 2021年2月.
+- M. Heshmat: The Certificate of Merit for Outstanding PhD Thesis Awarded. *Arab Republic of Egypt, The National Competition for Best MSc and Ph.D thesis*, November 2020.
+- 中田和秀, 住谷有規, 清水樹土, 笹尾知広, 松井諒生, 吉村勇佐, 小林健: [優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/令和元年度/){:target="_blank"}. 令和元年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2020年6月.
+- 中田和秀, 桑原惇, 岩田真奈, 倉又迪哉, 石塚湖太, 清原明加, 小林健: [最優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/令和元年度/){:target="_blank"}. 令和元年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2020年6月.
+- 松井諒生: [2019年度優秀学生賞](http://www.jimanet.jp/information/awards/gakusei){:target="_blank"}. 日本経営工学会, 2020年3月.
+- 中田和秀, 桑原惇, 岩田真奈, 倉又迪哉, 石塚湖太, 清原明加, 小林健: [最優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}. 令和元年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2020年3月.
+- 中田和秀, 住谷有規, 清水樹土, 笹尾知広, 松井諒生, 吉村勇佐, 小林健: [殊勲賞](http://www.yokoyamalab.org/societies/dma/2019.html){:target="_blank"}. 令和元年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データサイエンスとマーケティング分析研究部会 最終発表会, 2020年2月.
+- 小林健: [優秀発表賞](https://www.ism.ac.jp/~mirai/opta/tsukuba19.html){:target="_blank"}. 最適化とその応用: 未来を担う若手研究者の集い 2019, 日本オペレーションズ・リサーチ学会 研究部会「最適化とその応用」, 2019年6月.
+- 住谷有規: [2018年度優秀学生賞](http://www.jimanet.jp/information/awards/gakusei){:target="_blank"}. 日本経営工学会, 2019年3月.
+- 中田和秀, 片山翔太, 山野上勇人, 小茂田岳広, 石田雄基, 住谷有規, 小泉直人: [ビデオリサーチ賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成30年度/){:target="_blank"}. 平成30年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会,2019年3月.
+- 中田和秀, 片山翔太, 陳晨, 土橋諒太, 内橋孝介, 三浦真和: [最優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成30年度/){:target="_blank"}. 平成30年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2019年3月.
+- 中田和秀, 片山翔太, 陳晨, 土橋諒太, 内橋孝介, 三浦真和: [優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}. 平成30年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2019年2月.
+- 中田和秀, 片山翔太, 山野上勇人, 小茂田岳広, 石田雄基, 住谷有規, 小泉直人: [敢闘賞](http://www.yokoyamalab.org/societies/dma/2018.html){:target="_blank"}. 平成30年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データサイエンスとマーケティング分析研究部会 最終発表会, 2019年2月.
+- 中田和秀, 片山翔太, 根市和旗, 福永峻, 小槙瑠理子, 市瀬将也, 戸田開人, 田村悠: [優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成29年度/){:target="_blank"}. 平成29年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2018年3月.
+- 中田和秀, 片山翔太, 根市和旗, 福永峻, 小槙瑠理子, 市瀬将也, 戸田開人, 田村悠: [最優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}. 平成29年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2018年2月.
+- 中田和秀, 片山翔太, 田澤浩二, チョウイ, 大原靖之, 高正妍, 桑原惇, 山野上勇人. [殊勲賞](http://www.yokoyamalab.org/societies/dma/2017.html){:target="_blank"}. 平成29年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データサイエンスとマーケティング分析研究部会 最終発表会, 2018年2月.
+- 福永峻: [平成28年度優秀学生賞](http://www.jimanet.jp/information/awards/gakusei){:target="_blank"}. 日本経営工学会, 2017年8月.
+- M. Heshmat, K. Nakata, and A. Eltawil: [Best Oral Presentation](https://www.iciea.org/ICIEA2017.html){:target="_blank"}. *The 4th International Conference on Industrial Engineering and Applications (ICIEA2017)*, April 2017.
+- 中田和秀, 片山翔太, 吉住宗朔, 田村悠, 福永峻, 三宅聡一郎: [研究奨励賞](http://www.jsdss.org/event/285/){:target="_blank"}. 平成28年度データ解析コンペティション 成果報告会, 日本ソーシャルデータサイエンス学会, 2017年4月.
+- 中田和秀, 片山翔太, 吉住宗朔, 田村悠, 福永峻, 三宅聡一郎: [優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成28年度/){:target="_blank"}. 平成28年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2017年3月.
+- 中田和秀, 片山翔太, 田澤浩二, 根市和旗, 竹馬一輝, 大原靖之: [最優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成28年度/){:target="_blank"}. 平成28年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2017年3月.
+- 中田和秀, 片山翔太, 吉住宗朔, 田村悠, 福永峻, 三宅聡一郎: [最優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}. 平成28年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2017年2月.
+- 中田和秀, 片山翔太, 田澤浩二, 根市和旗, 竹馬一輝, 大原靖之: [殊勲賞](http://www.yokoyamalab.org/societies/bma/2016.html){:target="_blank"}. 平成28年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会 最終発表会, 2017年2月.
+- 山根智之, 菅原光太郎, 西村直樹, 小林健, 吉田佑輔, 高野祐一, 中田和秀: [第36回事例研究賞](https://orsj.org/?page_id=1125){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2016年9月.
+- 中田和秀, 片山翔太, 吉住宗朔, 平野豪一, 田澤浩二: [ビッグデータチャレンジ賞](http://www.yokoyamalab.org/societies/bma/2015.html){:target="_blank"}. 慶應義塾大学 文科省委託事業「スキルと実践を重視したビッグデータ・イノベーション人材育成プログラム」, 2016年3月.
+- 中田和秀, 片山翔太, 根市和旗, 髙村幸佑, 土田繁, 西岡里奈子, 三宅聡一郎: [データ2部門 最優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成27年度/){:target="_blank"}. 平成27年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2016年3月.
+- 中田和秀, 片山翔太, 吉住宗朔, 平野豪一, 田澤浩二: [データ1部門 最優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成27年度/){:target="_blank"}. 平成27年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2016年3月.
+- 中田和秀, 片山翔太, 根市和旗, 髙村幸佑, 土田繁, 西岡里奈子, 三宅聡一郎: [データ2部門 敢闘賞](http://www.yokoyamalab.org/societies/bma/2015.html){:target="_blank"}. 平成27年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会 最終発表会, 2016年2月.
+- 中田和秀, 片山翔太, 吉住宗朔, 平野豪一, 田澤浩二: [データ1部門 殊勲賞](http://www.yokoyamalab.org/societies/bma/2015.html){:target="_blank"}. 平成27年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会 最終発表会, 2016年2月.
+- 小林健: [第33回学生論文賞](https://orsj.org/?page_id=1125){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2015年9月.
+- 中田和秀, 高野祐一, 小林健, 西村直樹, 吉田佑輔, 菅原光太郎, 山根智之: [ビッグデータチャレンジ賞](http://www.yokoyamalab.org/societies/bma/2014.html){:target="_blank"}. 慶應義塾大学 文科省委託事業「スキルと実践を重視したビッグデータ・イノベーション人材育成プログラム」, 2015年3月.
+- 中田和秀, 高野祐一, 片山翔太, 谷川奈穂, 馬場隆, 志甫有真, 菊地宏治: [研究奨励賞](https://www.jsdss.org/info/49/){:target="_blank"}. 平成26年度データ解析コンペティション 成果報告会, 日本ソーシャルデータサイエンス学会, 2015年3月.
+- 中田和秀, 高野祐一, 片山翔太, 谷川奈穂, 馬場隆, 志甫有真, 菊地宏治: [データ2部門 優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成26年度/){:target="_blank"}. 平成26年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2015年3月.
+- 中田和秀, 高野祐一, 小林健, 西村直樹, 吉田佑輔, 菅原光太郎, 山根智之: [データ1部門 最優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成26年度/){:target="_blank"}. 平成26年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2015年3月.
+- 中田和秀, 高野祐一, 小林健, 西村直樹, 吉田佑輔, 菅原光太郎, 山根智之: [データ1部門 殊勲賞](http://www.yokoyamalab.org/societies/bma/2014.html){:target="_blank"}. 平成26年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会 最終発表会, 2015年2月.
+- 中田和秀, 高野祐一, 片山翔太, 谷川奈穂, 馬場隆, 志甫有真, 菊地宏治: [データ2部門 技能賞](http://www.yokoyamalab.org/societies/bma/2014.html){:target="_blank"}. 平成26年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータとマーケティング分析研究部会 最終発表会, 2015年2月.
+- 田中未来: [平成26年度手島精一記念研究賞 博士論文賞](http://www.titech.ac.jp/news/2015/030055){:target="_blank"}. 東京工業大学, 2015年2月.
+- 小林健: [研究科長賞ポスター部門](http://www.dst.titech.ac.jp/outline/award/award2014.html){:target="_blank"}. 東京工業大学大学院社会理工学研究科, 2014年11月.
+- 宮内敦史: [第32回学生論文賞](http://www.orsj.or.jp/whatisor/award6.html){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2014年8月.
+- 中田和秀, 和田篤, 鮏川矩義, 永井誠, 宮内敦史: [ビッグデータチャレンジ賞](https://www.yokoyamalab.org/societies/ama/2013.html){:target="_blank"}. 慶應義塾大学 文科省委託事業「スキルと実践を重視したビッグデータ・イノベーション人材育成プログラム」, 2014年3月.
+- 中田和秀, 永井誠, 和田篤, 鮏川矩義, 宮内敦史: [課題設定部門 最優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成25年度/){:target="_blank"}. 平成25年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2014年3月.
+- 中田和秀, 田中研太郎, 土谷拓人, 小林健, 西村直樹, 馬場隆: [課題設定部門 敢闘賞](https://www.yokoyamalab.org/societies/ama/2013.html){:target="_blank"}. 平成25年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会 最終発表会, 2014年3月.
+- 中田和秀, 永井誠, 和田篤, 鮏川矩義, 宮内敦史: [課題設定部門 殊勲賞](https://www.yokoyamalab.org/societies/ama/2013.html){:target="_blank"}. 平成25年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会 最終発表会, 2014年3月.
+- 志甫有真: 平成25年度優秀学生賞. 東京工業大学, 2014年3月.
+- 小林健, 田中未来, 鮏川矩義: [研究科長賞ポスター部門](https://www.dst.titech.ac.jp/outline/award/award2013.html){:target="_blank"}. 東京工業大学大学院社会理工学研究科, 2013年11月.
+- 田中未来: [研究科長賞研究論文部門](https://www.dst.titech.ac.jp/outline/award/award2013.html){:target="_blank"}. 東京工業大学大学院社会理工学研究科, 2013年11月.
+- 田中未来: [優秀発表賞](https://www.kurims.kyoto-u.ac.jp/~yusuke/SOTA/mirai13.html){:target="_blank"}. 最適化の理論と応用 ---未来を担う若手研究者の集い 2013---, 日本オペレーションズ・リサーチ学会 研究部会「最適化の理論と応用」, 2013年6月.
+- 永井誠: 平成24年度優秀学生賞. 東京工業大学, 2013年3月.
+- 中田和秀, 佐藤貴海, 和田篤, 大野聖也, 佐藤悠介, 張志鋒, 永井誠, 関根琴美: [フリー学生部門 優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成24年度/){:target="_blank"}. 平成24年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2013年3月.
+- 高野祐一, 中田和秀, 田中研太郎, 田中未来, 鮏川矩義, 神里栄, 竹山光将, 小林健, 千代竜佑: [フリー一般部門 殊勲賞](https://www.yokoyamalab.org/societies/ama/2012.html){:target="_blank"}. 平成24年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 日本データベース学会 ビジネスインテリジェンス研究グループ, 2013年2月.
+- 中田和秀, 佐藤貴海, 和田篤, 大野聖也, 佐藤悠介, 張志鋒, 永井誠, 関根琴美: [フリー学生部門 技能賞](https://www.yokoyamalab.org/societies/ama/2012.html){:target="_blank"}. 平成24年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 日本データベース学会 ビジネスインテリジェンス研究グループ, 2013年2月.
+- 宮内敦史 (前所属: 上智大学宮本研究室): [第30回学生論文賞](http://www.orsj.or.jp/whatisor/award6.html){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2012年9月.
+- 高野祐一, 中田和秀, 田中研太郎, 田中未来, 浅原惇希, 羽鳥映子, 神里栄, 竹山光将: [フリー一般部門 敢闘賞](https://www.yokoyamalab.org/societies/ama/2011.html){:target="_blank"}. 平成23年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 先端マーケティング分析研究部会, 日本データベース学会 ビジネスインテリジェンス研究グループ, 2012年3月.
+- 田中未来: [研究科長奨励賞](http://www.dst.titech.ac.jp/outline/s_meeting/s_meeting1.html){:target="_blank"}. 東京工業大学大学院社会理工学研究科, 2011年11月.
+- 田中未来: [第29回学生論文賞](http://www.orsj.or.jp/whatisor/award6.html){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2011年9月.
+- 田中未来: [優秀発表賞](http://www.indsys.chuo-u.ac.jp/~jgoto/SCOPE/mirai11_award.html){:target="_blank"}. SCOPE@つくば ---未来を担う若手研究者の集い 2011---, 日本オペレーションズ・リサーチ学会 研究部会「計算と最適化の新展開」, 2011年5月.
+- 千代竜佑: 平成22年度開発システム工学科学士論文発表会ベストプレゼンテーション賞. 東京工業大学工学部開発システム工学科, 2011年3月.
+- 浅原惇希: [平成21年度優秀学生賞](http://www.jimanet.jp/archive/mem_service/member/hyousyou.html#gakusei){:target="_blank"}. 日本経営工学会, 2010年3月.
 
 ![受賞](/images/2_works/prize.jpg)
