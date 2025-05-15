@@ -1,22 +1,6 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-.header-wrapper {
-    max-width: $max-width;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 1em;
-    padding-right: 1em;
-}
-
-.footer-wrapper {
-    max-width: $max-width;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 1em;
-    padding-right: 1em;
-}
-
 body {
     color: $text-color-dark;
     font-family: 'M PLUS 1', sans-serif;
@@ -84,6 +68,14 @@ a:active {
 }
 
 // header
+.header-wrapper {
+    max-width: $max-width;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
 .site-header {
     background-color: $main-color;
     border-top: none;
@@ -122,6 +114,14 @@ a:active {
 }
 
 // footer
+.footer-wrapper {
+    max-width: $max-width;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
 .site-footer {
     background-color: $main-color;
     border-top: none;
