@@ -18,12 +18,14 @@ nav-order: 6
 
 東急目黒線/大井町線の大岡山駅より徒歩1分です．詳細な交通案内をご覧になりたい方は路線図をクリックして下さい．
 
+{: align="center"}
 [![路線図](/images/6_access/route-map.svg)](https://www.isct.ac.jp/ja/001/access#anchor01){:target="_blank"}
 
 ### 西9号館へのアクセス
 
 正門から入り，図書館（9）までまっすぐ進み，講堂（24）とサークル棟（28）の間の坂道を下ったところにある建物が西9号館（22）です．
 
+{: align="center"}
 [![キャンパスマップ](/images/6_access/campus-map.svg)](https://www.isct.ac.jp/ja/001/about/campuses-and-offices/ookayama#anchor02){:target="_blank"}
 
 ## 連絡先

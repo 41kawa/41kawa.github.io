@@ -27,14 +27,14 @@ permalink: /works/award/
 - 中田和秀, 水谷圭佑, 植田彩香, 植田遼太, 大石嶺, 星野雄毅, 小林健, 原朋史: [最優秀賞](https://jasmac-j.jimdofree.com/#cc-m-11111075879){:target="_blank"}. 令和4年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2023年3月.
 - 中田和秀, 水谷圭介, 植田彩香, 植田遼太, 大石嶺, 星野雄毅, 小林健, 原朋史: [優秀賞](https://almondine-rhythm-dd8.notion.site/4-a7a4e5a980a64bba91a46015ba39146c){:target="_blank"}. 令和4年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2023年2月.
 - 中田和秀, 東将己, 成民濟, 稲室健太, 永井将太, 山根大輝, 小林健: [殊勲賞](http://www.yokoyamalab.org/societies/ddm/2022.html){:target="_blank"}. 令和4年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データドリブンマーケティング研究部会 最終発表会, 2023年2月.
-- 山根大輝, 田中未来, 小林健, 中田和秀: [学生優秀プレゼンテーション賞ファイナリスト](https://ibisml.org/ibis2022/awards/){:target="_blank"}. 第25回情報論的学習理論ワークショップ (IBIS2022), 2022年11月
+- 山根大輝, 田中未来, 小林健, 中田和秀: [学生優秀プレゼンテーション賞ファイナリスト](https://ibisml.org/ibis2022/awards/){:target="_blank"}. 第25回情報論的学習理論ワークショップ (IBIS 2022), 2022年11月
 - 西島光洋: [第40回学生論文賞](https://orsj.org/?page_id=1125){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2022年9月.
 - 倉又迪哉: [第40回学生論文賞](https://orsj.org/?page_id=1125){:target="_blank"}. 日本オペレーションズ・リサーチ学会, 2022年9月.
 - 中田和秀, 梅津大雅, 東将己, 馬嶋海斗, 山根大輝, 原朋史, 松井諒生: [優秀賞](https://jasmac-j.jimdofree.com/#cc-m-11013160579){:target="_blank"}. 令和3年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2022年3月.
 - 中田和秀, 浅見元哉, 水谷圭佑, 田崎誠, 星野雄毅, 石塚湖太: [最優秀賞](https://jasmac-j.jimdofree.com/#cc-m-11013160579){:target="_blank"}. 令和3年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2022年3月.
 - 中田和秀, 梅津大雅, 東将己, 馬嶋海斗, 山根大輝, 原朋史, 松井諒生: [優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}. 令和3年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2022年2月.
 - 中田和秀, 浅見元哉, 水谷圭佑, 田崎誠, 星野雄毅, 石塚湖太: [殊勲賞](http://www.yokoyamalab.org/societies/ddm/2021.html){:target="_blank"}. 令和3年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データドリブンマーケティング分析研究部会 最終発表会, 2022年2月.
-- H. Kiyohara: [WSDM 2022 Best Paper Award Runner-Ups](https://www.wsdm-conference.org/2022/timetable/event/best-papers-session/){:target="_blank"}. *15th ACM International WSDM Conference (WSDM '22)*, Feburary 2022.
+- H. Kiyohara: [WSDM 2022 Best Paper Award Runner-Ups](https://www.wsdm-conference.org/2022/timetable/event/best-papers-session/){:target="_blank"}. *15th ACM International WSDM Conference (WSDM 2022)*, Feburary 2022.
 - 土橋諒太: [2020年度 学生優秀論文賞](https://sigfin.org/award2020/){:target="_blank"}. 人工知能学会 金融情報学研究会 (SIG-FIN), 2021年10月.
 - 住谷有規: [2020年学術奨励賞 研究奨励賞](https://www.jami.jp/award/22486/){:target="_blank"}. 第40回医療情報学連合大会, 日本医療情報学会, 2021年5月.
 - 中田和秀, 松井諒生, 石塚湖太, 石川洸矢, 星野雄毅, 梅津大雅: [優秀賞](https://jasmac-j.jimdofree.com/#cc-m-10771151479){:target="_blank"}. 令和2年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2021年3月.
@@ -58,7 +58,7 @@ permalink: /works/award/
 - 中田和秀, 片山翔太, 根市和旗, 福永峻, 小槙瑠理子, 市瀬将也, 戸田開人, 田村悠: [最優秀賞](http://www.jimanet.jp/activities/kenkyubumon/jimayosen){:target="_blank"}. 平成29年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会, 2018年2月.
 - 中田和秀, 片山翔太, 田澤浩二, チョウイ, 大原靖之, 高正妍, 桑原惇, 山野上勇人. [殊勲賞](http://www.yokoyamalab.org/societies/dma/2017.html){:target="_blank"}. 平成29年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 データサイエンスとマーケティング分析研究部会 最終発表会, 2018年2月.
 - 福永峻: [平成28年度優秀学生賞](http://www.jimanet.jp/information/awards/gakusei){:target="_blank"}. 日本経営工学会, 2017年8月.
-- M. Heshmat, K. Nakata, and A. Eltawil: [Best Oral Presentation](https://www.iciea.org/ICIEA2017.html){:target="_blank"}. *The 4th International Conference on Industrial Engineering and Applications (ICIEA2017)*, April 2017.
+- M. Heshmat, K. Nakata, and A. Eltawil: [Best Oral Presentation](https://www.iciea.org/ICIEA2017.html){:target="_blank"}. *The 4th International Conference on Industrial Engineering and Applications (ICIEA 2017)*, April 2017.
 - 中田和秀, 片山翔太, 吉住宗朔, 田村悠, 福永峻, 三宅聡一郎: [研究奨励賞](http://www.jsdss.org/event/285/){:target="_blank"}. 平成28年度データ解析コンペティション 成果報告会, 日本ソーシャルデータサイエンス学会, 2017年4月.
 - 中田和秀, 片山翔太, 吉住宗朔, 田村悠, 福永峻, 三宅聡一郎: [優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成28年度/){:target="_blank"}. 平成28年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2017年3月.
 - 中田和秀, 片山翔太, 田澤浩二, 根市和旗, 竹馬一輝, 大原靖之: [最優秀賞](https://jasmac-j.jimdofree.com/データ解析コンペティション/平成28年度/){:target="_blank"}. 平成28年度データ解析コンペティション 成果報告会, 経営科学系研究部会連合協議会, 2017年3月.
@@ -100,4 +100,5 @@ permalink: /works/award/
 - 千代竜佑: 平成22年度開発システム工学科学士論文発表会ベストプレゼンテーション賞. 東京工業大学工学部開発システム工学科, 2011年3月.
 - 浅原惇希: [平成21年度優秀学生賞](http://www.jimanet.jp/archive/mem_service/member/hyousyou.html#gakusei){:target="_blank"}. 日本経営工学会, 2010年3月.
 
+{: align="center"}
 ![受賞](/images/2_works/prize.jpg)

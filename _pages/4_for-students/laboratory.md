@@ -67,12 +67,14 @@ permalink: /for-students/laboratory/
 
 学生室では1人1台の机とPCが割り当てられます．希望者はデスクライトやブックエンドなども使うことができます．また，数多くの専門書が揃っており，研究に適した環境になっています．
 
+{: align="center"}
 ![学生室](/images/4_for-students/laboratory/room-526.jpg)
 
 #### 談話室
 
 談話室にはホワイトボードやソファーがあり，ディスカッションを行ったりくつろいだりすることができます．また，専門書や論文誌も充実しています．
 
+{: align="center"}
 ![談話室](/images/4_for-students/laboratory/room-519.jpg)
 
 ### イベント

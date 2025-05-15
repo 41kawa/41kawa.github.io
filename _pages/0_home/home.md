@@ -5,10 +5,8 @@ permalink: /
 nav-bar: False
 ---
 
-<div style="text-align:center">
-  <img src="images/0_home/research.jpg">
-</div>
-<br>
+{: align="center"}
+![](/images/0_home/research.jpg)
 
 # 中田研究室のウェブページへようこそ！
 
