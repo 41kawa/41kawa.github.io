@@ -52,7 +52,8 @@ permalink: /works/publication/
 
 ### 査読付き国際会議プロシーディングス
 
-- Y. Hikima, K. Kobayashi, A. Tanaka, A. Sannai, and N. Hamada: Stochastic gradient descent for Bézier simplex representation of pareto set in multi-objective optimization. *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)*, (2025).
+- K. Kanamori, K. Kobayashi, S. Hara, and T. Takagi: Algorithmic recourse for long-term improvement. *Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)*, (in press).
+- Y. Hikima, K. Kobayashi, A. Tanaka, A. Sannai, and N. Hamada: [Stochastic gradient descent for Bézier simplex representation of pareto set in multi-objective optimization](https://raw.githubusercontent.com/mlresearch/v258/main/assets/hikima25a/hikima25a.pdf){:target="_blank"}. *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)*, (2025).
 - S. Koguchi, K. Nakata, K. Kobayashi, K. Kawakami, T. Nakajima, and K. Kratzer: [Online joint optimization of sponsored search ad bid amounts and product prices on e-commerce](https://www.scitepress.org/Papers/2025/131183/131183.pdf){:target="_blank"}. *Proceedings of the 14th International Conference on Operations Research and Enterprise Systems (ICORES 2025)*, (2024).
 - S. Nagai, R. Inaba, R. Oishi, S. Aikawa, Y. Mibuchi, H. Moriyama, K. Kobayashi, and K. Nakata: [Zero-shot demand forecasting for products with limited sales periods](https://doi.org/10.1109/BigData62323.2024.10825549){:target="_blank"}. *Proceedings of 2024 IEEE International Conference on Big Data (BigData 2024)*, (2024).
 - A. Suzuki, K. Kobayashi, K. Nakata, Y. Kurume, N. Sawasaki, and Y. Sasamoto: Decision diagram optimization for allocating patients to medical diagnosis. *Operations Research Proceedings 2024 Selected Papers of the Annual International Conference of the German Operations Research Society (GOR)*, (2024).
