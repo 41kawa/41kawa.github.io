@@ -13,6 +13,10 @@ permalink: /works/talk/
 
 ### 口頭発表
 
+- **相川修平**, 鈴木愛, 吉武渓, 勅使川原奏大, 岩渕亮, 小林健, 中田和秀: 予測誤差の不確実性を考慮したロバスト階層的時系列予測. [日本オペレーションズ・リサーチ学会 2025年秋季研究発表会](https://orsj.org/2025f/){:target="_blank"}, 広島大学 東広島キャンパス, 2025年9月.
+- **吉田開**, 小林健, 川井一馬, 伊東悠太郎, 池本宣昭, 中田和秀: 時間窓及び非線形放充電を考慮した電気自動車の配送計画問題. [日本オペレーションズ・リサーチ学会 2025年秋季研究発表会](https://orsj.org/2025f/){:target="_blank"}, 広島大学 東広島キャンパス, 2025年9月.
+- **實渕有佑**, 山尾奬紀, 吉田開, 呉景琪, 中川倖那, 中屋嘉弥, 小林健, 中田和秀: 他社価格の不確実性を考慮した処方的ロバスト価格最適化. [日本オペレーションズ・リサーチ学会 2025年秋季研究発表会](https://orsj.org/2025f/){:target="_blank"}, 広島大学 東広島キャンパス, 2025年9月.
+- **永井将太**, 稲葉亮太, 大石嶺, 相川修平, 實渕有佑, 守山日向, 小林健, 中田和秀: 販売期間が限られた商品に対するゼロショット需要予測手法. [2025年度 人工知能学会全国大会 (第39回)](https://www.ai-gakkai.or.jp/jsai2025/){:target="_blank"}, 大阪国際会議場 (グランキューブ大阪), 2025年5月.
 - **實渕有佑**, 山尾奬紀, 吉田開, 呉景琪, 中川倖那, 中屋嘉弥, 小林健, 中田和秀: 他社価格の不確実性を考慮した処方的ロバスト価格最適化. [令和6年度データ解析コンペティション 成果報告会](https://jasmac-j.jimdofree.com/#cc-m-11265871679){:target="_blank"}, 中央大学 後楽園キャンパス, 2025年3月.
 - **相川修平**, 鈴木愛, 吉武渓, 勅使川原奏大, 岩渕亮, 小林健, 中田和秀: データの不確実性を考慮した階層的時系列予測. [令和6年度データ解析コンペティション 成果報告会](https://jasmac-j.jimdofree.com/#cc-m-11265871679){:target="_blank"}, 中央大学 後楽園キャンパス, 2025年3月.
 - **相川修平**, 小林健, 中田和秀, 川上孝介, 中島丈範: 売上と効率を考慮した検索連動型広告の入札額最適化. [日本オペレーションズ・リサーチ学会 2025年春季研究発表会](https://orsj.org/nc2025s/){:target="_blank"}, 成蹊大学, 2025年3月.
@@ -261,6 +265,8 @@ permalink: /works/talk/
 
 ### ポスター発表
 
+- **T. Matsuba**: Knot data analysis using Goeritz invariants. [*The Geometric Realization of AATRN (Applied Algebraic Topology Research Network)*](https://www.imsi.institute/geometric-realization-of-aatrn-poster-session/){:target="_blank"}, The University of Chicago, USA, August 2025.
+- **吉武渓**, 細野健人, 小林健, 中田和秀: VLMを用いた画像付き広告のレイアウト生成. [画像の認識・理解シンポジウム MIRU2025](https://cvim.ipsj.or.jp/MIRU2025/index.html){:target="_blank"}, 国立京都国際会館​, 2025年8月.
 - **水谷圭佑**, 小林健, 朱博, 北口哲也, 井上暁人: 教師なしクラスタリングを用いたタンパク質機能予測. [第26回情報論的学習理論ワークショップ (IBIS 2023)](https://ibisml.org/ibis2023/){:target="_blank"}, 北九州国際会議場, 2023年10月.
 - **西島光洋**: 完全正値錐および共正値錐の面の最長の鎖について. [連続最適化および関連分野に関する夏季学校 2023](https://www.ism.ac.jp/~mirai/sscoke/2023/){:target="_blank"}, 統計数理研究所, 2023年8月.
 - **Y. Saito**, H. Sakata, and K. Nakata: Doubly robust prediction and evaluation methods improve uplift modeling for observational data. [*SIAM International Conference on Data Mining (SDM19)*](https://www.siam.org/conferences-events/past-event-archive/sdm19/){:target="_blank"}, Calgary, Canada, May 2019.
