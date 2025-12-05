@@ -54,7 +54,7 @@ permalink: /works/publication/
 ### 査読付き国際会議プロシーディングス
 
 - S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and K. Nakata: Robust prescriptive pricing under competitor price uncertainty, *Proceedings of 2025 IEEE International Conference on Big Data*, (2025).
-- K. Toyoda, Y. Utsumi, K. Kobayashi, K. Nakata: Classification of strategic patents under the scarcity of labeled data, *2025 IEEE International Conference on Big Data Industrial and Government Program*, (2025).
+- K. Toyoda, Y. Utsumi, K. Kobayashi, K. Nakata: Classification of strategic patents under the scarcity of labeled data, *2025 IEEE International Conference on Big Data*, (2025).
 - K. Kanamori, K. Kobayashi, and T. Takagi: Learning gradient boosted decision trees with algorithmic recourse. *Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*, (2025).
 - K. Kanamori, K. Kobayashi, S. Hara, and T. Takagi: [Algorithmic recourse for long-term improvement](https://proceedings.mlr.press/v267/kanamori25a.html){:target="_blank"}. *Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)*, (2025).
 - Y. Hikima, K. Kobayashi, A. Tanaka, A. Sannai, and N. Hamada: [Stochastic gradient descent for Bézier simplex representation of pareto set in multi-objective optimization](https://proceedings.mlr.press/v258/hikima25a.html){:target="_blank"}. *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)*, (2025).
