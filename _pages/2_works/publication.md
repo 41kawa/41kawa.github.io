@@ -21,7 +21,7 @@ permalink: /works/publication/
 - M. Nishijima: [On the longest chain of faces of the completely positive and copositive cones](https://doi.org/10.1016/j.laa.2024.06.012){:target="_blank"}. *Linear Algebra and its Applications*, 698 (2024), 479--491.
 - K. Majima, K. Kawakami, K. Ishizuka, and K. Nakata: [Keyword-level bayesian online bid optimization for sponsored search advertising](https://doi.org/10.1007/s43069-024-00322-y){:target="_blank"}. *Operations Research Forum*, 5 (2024).
 - M. Nishijima and K. Nakata: [Generalizations of doubly nonnegative cones and their comparison](https://doi.org/10.15807/jorsj.67.84){:target="_blank"}. *Journal of the Operations Research Society of Japan*, 67 (2024), 84--109.
-- M. Nishijima and K. Nakata: [Approximation hierarchies for copositive cone over symmetric cone and their comparison](https://doi.org/10.1007/s10898-023-01319-3){:target="_blank"}. *Journal of Global Optimization*, 88, (2024) 831--870.
+- M. Nishijima and K. Nakata: [Approximation hierarchies for copositive cone over symmetric cone and their comparison](https://doi.org/10.1007/s10898-023-01319-3){:target="_blank"}. *Journal of Global Optimization*, 88 (2024), 831--870.
 - Y. Ma, S. Sengoku, and K. Nakata: [The realized local volatility surface](https://doi.org/10.21314/JOIS.2023.003){:target="_blank"}. *RISK Journals: Journal of Investment Strategies*, 12 (2023), 1--21.
 - 東将己, 山根大輝, 原朋史, 梅津大雅, 馬嶋海斗, 松井諒生, 中田和秀: [育児Q&Aサイトにおける質問の時系列を考慮した複数の子供の月齢予測](https://orsj.org/wp-content/corsj/or68-2/or68_2_75.pdf){:target="_blank"}. オペレーションズ・リサーチ, 68 (2023), 75--84.
 - Y. Hoshino, Y. Utsumi, Y. Matsuda, Y. Tanaka, and K. Nakata: [IPC prediction of patent documents using neural network with attention for hierarchical structure](https://doi.org/10.1371/journal.pone.0282361){:target="_blank"}. *PLOS ONE*, 18: e0282361 (2023).
@@ -53,6 +53,7 @@ permalink: /works/publication/
 
 ### 査読付き国際会議プロシーディングス
 
+- K. Yoshida, K. Kobayashi, K. Kawai, Y. Ito, N. Ikemoto, and K. Nakata: The electric vehicle routing problem with hard time windows and nonlinear charging and discharging, *Proceedings of the 15th International Conference on Operations Research and Enterprise Systems*, (2026).
 - S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and K. Nakata: Robust prescriptive pricing under competitor price uncertainty, *Proceedings of 2025 IEEE International Conference on Big Data*, (2025).
 - K. Toyoda, Y. Utsumi, K. Kobayashi, K. Nakata: Classification of strategic patents under the scarcity of labeled data, *2025 IEEE International Conference on Big Data*, (2025).
 - K. Kanamori, K. Kobayashi, and T. Takagi: Learning gradient boosted decision trees with algorithmic recourse. *Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*, (2025).

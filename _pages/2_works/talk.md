@@ -13,6 +13,8 @@ permalink: /works/talk/
 
 ### 口頭発表
 
+- **S. Yamao**, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and K. Nakata: Robust prescriptive pricing under competitor price uncertainty. [*2025 IEEE International Conference on Big Data*](http://bigdataieee.org/BigData2025/){:target="_blank"}, Galaxy International Convention Center, Macau, December 2025.
+- **K. Toyoda**, Y. Utsumi, K. Kobayashi, K. Nakata: Classification of strategic patents under the scarcity of labeled data, [*2025 IEEE International Conference on Big Data*](http://bigdataieee.org/BigData2025/){:target="_blank"}, Galaxy International Convention Center, Macau, December 2025.
 - **相川修平**, 鈴木愛, 吉武渓, 勅使川原奏大, 岩渕亮, 小林健, 中田和秀: 予測誤差の不確実性を考慮したロバスト階層的時系列予測. [日本オペレーションズ・リサーチ学会 2025年秋季研究発表会](https://orsj.org/2025f/){:target="_blank"}, 広島大学 東広島キャンパス, 2025年9月.
 - **吉田開**, 小林健, 川井一馬, 伊東悠太郎, 池本宣昭, 中田和秀: 時間窓及び非線形放充電を考慮した電気自動車の配送計画問題. [日本オペレーションズ・リサーチ学会 2025年秋季研究発表会](https://orsj.org/2025f/){:target="_blank"}, 広島大学 東広島キャンパス, 2025年9月.
 - **實渕有佑**, 山尾奬紀, 吉田開, 呉景琪, 中川倖那, 中屋嘉弥, 小林健, 中田和秀: 他社価格の不確実性を考慮した処方的ロバスト価格最適化. [日本オペレーションズ・リサーチ学会 2025年秋季研究発表会](https://orsj.org/2025f/){:target="_blank"}, 広島大学 東広島キャンパス, 2025年9月.
